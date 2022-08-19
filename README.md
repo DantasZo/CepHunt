@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://img.shields.io/badge/-Atividade%20Concluido%20com%20Exito-green"/>
+<img src="https://img.shields.io/badge/-Projeto%20Concluido%20com%20Exito-green"/>
 
 </p>
   A proposta deste projeto foi criar uma api capaz de responder a localização de um CEP com precisão, dando local, cidade, rua e afins.
